@@ -2,7 +2,8 @@
 
 ### INTRODUCTION
 
-*Travel guide management system* is used to book a tour from anywhere in the world which will help the user to know all about the places and tour details. Nearly     everyone goes on a vacation and a Tourism management system would play a vital role in planning the perfect trip. The tour guide management system allows the user of the system to access all the details such as cheapest flight cost and rated hotels at the best cost. The main purpose is to help tourism companies to manage customer and hotels. The system is designed in a way that customer can choose their desired type of destination and see the best options available for them. 
+*Travel guide management system* is used to book a tour from anywhere in the world which will help the user to know all about the places and tour details. Nearly     everyone goes on a vacation and a Tourism management system would play a vital role in planning the perfect trip. 
+The tour guide management system allows the user of the system to access all the details such as cheapest flight cost and rated hotels at the best cost. The main purpose is to help tourism companies to manage customer and hotels. The system is designed in a way that customer can choose their desired type of destination and see the best options available for them. 
 
 ### PROJECT OBJECTIVE
 
